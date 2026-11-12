@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Arthur Castro!
 
-<!--
-**ArthurDCastro/arthurdcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at the Federal University of Paraná (UFPR), Brazil.
 
-Here are some ideas to get you started:
+I'm interested in software development, computer vision, machine learning, and data-driven applications. My work combines academic research with practical software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+- Computer Vision & Machine Learning
+- Software Development
+- Data Processing & Automation
+- Sports Analytics
+
+### Featured Projects
+
+Coming soon — a selection of research and software development projects.
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-castro-37bb38174/)
+- [GitHub](https://github.com/arthurdcastro)
+- [Email](mailto:arthurdiasvianacastro@gmail.com)
