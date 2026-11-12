@@ -1,22 +1,17 @@
 # Hi, I'm Arthur Castro!
 
-Computer Science undergraduate at the Federal University of Paraná (UFPR), Brazil.
+Computer Science undergraduate at the **Federal University of Paraná (UFPR), Brazil**, interested in software development, computer vision, artificial intelligence, and data-driven applications.
 
-I'm interested in software development, computer vision, machine learning, and data-driven applications. My work combines academic research with practical software projects.
+My interests span both academic research and practical software development, with a particular focus on applying computing and data analysis to real-world problems, especially in sports.
 
-### Areas of Interest
+## Areas of Interest
 
-- Computer Vision & Machine Learning
-- Software Development
-- Data Processing & Automation
-- Sports Analytics
+- **Computer Vision & Machine Learning** — Image processing, visual recognition, and automated analysis.
+- **Software Development** — Desktop applications, web development, and system design.
+- **Data & Automation** — Data processing, workflow automation, and analytical tools.
+- **Sports Analytics** — Applications of computer science and data analysis to sports, particularly basketball.
 
-### Featured Projects
+## Contact
 
-Coming soon — a selection of research and software development projects.
-
-### Connect
-
-- [LinkedIn](https://www.linkedin.com/in/arthur-castro-37bb38174/)
-- [GitHub](https://github.com/arthurdcastro)
-- [Email](mailto:arthurdiasvianacastro@gmail.com)
+- **Personal:** [arthurdiasvianacastro@gmail.com](mailto:arthurdiasvianacastro@gmail.com)
+- **Academic:** [advc19@inf.ufpr.br](mailto:advc19@inf.ufpr.br)
